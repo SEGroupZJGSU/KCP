@@ -1,5 +1,5 @@
 # Online appendix
-This is the replication package for our work submitted to Axioms.
+This is the replication package for our work.
 
 # Code
 This directory will contain the source code of our implementation. 
